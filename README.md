@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Foi um projeto simples desenvolvido nas aulas de Programação de Scripts na FATEC Faculdade de Tecnologia de Bragança Paulista com o auxílio do professor Luciano Pelissoli.
+https://guicmoreira.github.io/Cronometro/ <br><br> Foi um projeto simples desenvolvido nas aulas de Programação de Scripts na FATEC Faculdade de Tecnologia de Bragança Paulista com o auxílio do professor Luciano Pelissoli.
 ###
 <img src="Captura de tela 2023-10-31 172836.png" alt="Projeto">
 
