@@ -1,4 +1,4 @@
-<h1 align="center"> Calculadora-HTML </h1>
+<h1 align="center"> Cronômetro-HTML </h1>
 
 <p align="center">
 Desenvolvido por Guilherme de Carvalho<br>Estudante de Análise e Desenvolvimento de Sistemas<br> FATEC -Bragança Paulista <br/>
